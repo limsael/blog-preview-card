@@ -7,7 +7,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/665d8f806ec3887a3b0816bc/challenge/start)
   - [Screenshot](./assets/images/screenshots.png)
-  - [Links](#links)
+  - [Live Site](https://limsael.github.io/blog-preview-card/)
 - [My process](#my-process)
   - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   - [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
