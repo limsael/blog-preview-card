@@ -55,8 +55,8 @@ a {
 
 ### Continued development
 
-- The image
 - The card
+- The image
 
 ### Useful resources
 
