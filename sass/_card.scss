@@ -1,0 +1,57 @@
+.card {
+  background-color: $White;
+  border-radius: 1rem;
+  padding: 0.8rem;
+  width: 375px;
+  display: grid;
+  gap: 0.8rem;
+  box-shadow: 20px 20px 0 $Black;
+
+  .card__hero {
+    width: 100%;
+  }
+
+  button {
+    background-color: $yellow;
+    color: $Black;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: $bold-weight;
+    cursor: pointer;
+    margin-block-end: 0.625rem;
+  }
+
+  .card__date,
+  a,
+  .card__description {
+    margin-block-end: 1rem;
+  }
+
+  a {
+    font-size: 1.2rem;
+    color: $Black;
+    font-weight: $bold-weight;
+    transition: color 0.3s ease;
+
+    &:where(:hover, :focus) {
+      color: $yellow;
+    }
+  }
+
+  .card__description {
+    color: $Grey;
+  }
+
+  .card__footer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    p {
+      font-weight: $bold-weight;
+      color: $Black;
+    }
+  }
+}

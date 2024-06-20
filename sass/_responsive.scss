@@ -1,0 +1,13 @@
+@media screen and (max-width: 450px) {
+  .card {
+    width: 330px;
+    box-shadow: 8px 8px 0 $Black;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .card {
+    width: 290px;
+    box-shadow: 8px 8px 0 $Black;
+  }
+}
