@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [The Solution](https://www.frontendmentor.io/solutions/blog-card-preview-html-css-7_gwMOAi2v)
 - Live Site URL: [The Live Site](https://limsael.github.io/blog-preview-card/)
 
 ## My process
